@@ -1,4 +1,4 @@
-## Hola, soy Juan 👋
+## Hola, soy Juan 
 
 Estudiante de último curso de **Ingeniería Electrónica de Comunicaciones** en la Universidad Complutense de Madrid. Me interesa el trabajo que conecta el modelo matemático con el hardware que lo ejecuta: **RF, procesado de señal, sistemas embebidos y control**.
 
